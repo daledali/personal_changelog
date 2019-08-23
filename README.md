@@ -8,7 +8,7 @@ Note that this log is starting as of August 21st, 2019 and it not a full descrip
 ---
 
 #### August 22nd, 2019
-- Working through the [FreeCodeCamp, D3, Introduction to Data Visualization](https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3), completed 22 of 29 challenges
+- Working through the [FreeCodeCamp, D3, Introduction to Data Visualization](https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3) course, completed 22 of 29 challenges
 - Reading: [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1), Booked Started
 
 #### August 21st, 2019
