@@ -8,7 +8,7 @@ Note that this log is starting as of August 21st, 2019 and it not a full descrip
 ---
 
 #### August 23rd, 2019
-- Deployed a Wordpress install to [scottbromander.com](www.scottbromander.com)
+- Deployed a Wordpress install to [scottbromander.com](http://www.scottbromander.com)
 - Tore down Docix.net
 - Helped [My Dad's Site](http://www.michaelbromander.com), Image Sizing and Upload in WordPress
 - Reading: [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
