@@ -7,6 +7,9 @@ Note that this log is starting as of August 21st, 2019 and it not a full descrip
 
 ---
 
+#### August 24th, 2019
+- Style and content updates to [scottbromander.com](http://www.scottbromander.com)
+
 #### August 23rd, 2019
 - Deployed a Wordpress install to [scottbromander.com](http://www.scottbromander.com)
 - Tore down Docix.net
