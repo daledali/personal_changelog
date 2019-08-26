@@ -6,6 +6,9 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 Note that this log is starting as of August 21st, 2019 and it not a full description of what I have read and courses I have taken. Highlights of past reading and courses can be found here!
 
 ---
+#### Monday, August 25th, 2019
+- [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Attention Merchants](https://www.blinkist.com/en/nc/reader/the-attention-merchants-en)
+- [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Four Tendencies](https://www.blinkist.com/en/nc/reader/the-four-tendencies-en)
 
 #### Sunday, August 25th, 2019
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [How to Skimm Your Life](https://www.blinkist.com/en/nc/reader/how-to-skimm-your-life-en)
