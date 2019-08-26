@@ -7,6 +7,11 @@ Note that this log is starting as of August 21st, 2019 and it not a full descrip
 
 ---
 
+#### August 25th, 2019
+- [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [How to Skimm Your Life](https://www.blinkist.com/en/nc/reader/how-to-skimm-your-life-en)
+- [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Work the System](https://www.blinkist.com/en/nc/reader/work-the-system-en) 
+- Content updates to [scottbromander.com](http://www.scottbromander.com)
+
 #### August 24th, 2019
 - Style and content updates to [scottbromander.com](http://www.scottbromander.com)
 
