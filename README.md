@@ -7,8 +7,10 @@ Note that this log is starting as of August 21st, 2019 and it not a full descrip
 
 ---
 #### Monday, August 25th, 2019
+- Working through the [FreeCodeCamp, D3, Introduction to Data Visualization](https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3) course
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Attention Merchants](https://www.blinkist.com/en/nc/reader/the-attention-merchants-en)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Four Tendencies](https://www.blinkist.com/en/nc/reader/the-four-tendencies-en)
+- Reading: [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
 
 #### Sunday, August 25th, 2019
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [How to Skimm Your Life](https://www.blinkist.com/en/nc/reader/how-to-skimm-your-life-en)
