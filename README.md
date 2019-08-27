@@ -6,7 +6,11 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 Note that this log is starting as of August 21st, 2019 and it not a full description of what I have read and courses I have taken. Highlights of past reading and courses can be found here!
 
 ---
-#### Monday, August 25th, 2019
+#### Tuesday, August 27th, 2019
+- [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Happy Mind](https://www.blinkist.com/books/the-happy-mind-en)
+- [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Influential Mind](https://www.blinkist.com/en/books/the-influential-mind-en)
+
+#### Monday, August 26th, 2019
 - Working through the [FreeCodeCamp, D3, Introduction to Data Visualization](https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3) course
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Attention Merchants](https://www.blinkist.com/en/nc/reader/the-attention-merchants-en)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Four Tendencies](https://www.blinkist.com/en/nc/reader/the-four-tendencies-en)
