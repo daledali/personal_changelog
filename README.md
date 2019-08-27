@@ -7,10 +7,13 @@ Note that this log is starting as of August 21st, 2019 and it not a full descrip
 
 ---
 #### Tuesday, August 27th, 2019
+- Taught: Redux - Providers, Stores, and Reducers, Redux/React
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Happy Mind](https://www.blinkist.com/books/the-happy-mind-en)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Influential Mind](https://www.blinkist.com/en/books/the-influential-mind-en)
+- Reading: [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
 
 #### Monday, August 26th, 2019
+- Taught: React Router
 - Working through the [FreeCodeCamp, D3, Introduction to Data Visualization](https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3) course
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Attention Merchants](https://www.blinkist.com/en/nc/reader/the-attention-merchants-en)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Four Tendencies](https://www.blinkist.com/en/nc/reader/the-four-tendencies-en)
