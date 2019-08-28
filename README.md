@@ -9,7 +9,7 @@ Highlights of past reading and courses can be found here! (Eventually)
 
 ---
 #### Wednesday, August 28th, 2019
-- - Working through the [TeamTreeHouse, Python Course](https://teamtreehouse.com/library/python-basics-3)
+- Working through the [TeamTreeHouse, Python Course](https://teamtreehouse.com/library/python-basics-3)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Deep Work](https://www.blinkist.com/books/deep-work-en?r=1&st=deep%20work)
 - **COMPLETED** - [FreeCodeCamp, D3, Introduction to Data Visualization](https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3) course
 - Reading: [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
