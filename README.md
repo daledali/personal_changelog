@@ -10,12 +10,14 @@ Note that this log is starting as of August 21st, 2019 and it not a full descrip
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Deep Work](https://www.blinkist.com/books/deep-work-en?r=1&st=deep%20work)
 - Working through the [FreeCodeCamp, D3, Introduction to Data Visualization](https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3) course, **COMPLETE**
 - Reading: [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
+- Workout, Cardio
 
 #### Tuesday, August 27th, 2019
 - Taught: `Redux - Providers, Stores, and Reducers, Redux/React`
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Happy Mind](https://www.blinkist.com/books/the-happy-mind-en)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Influential Mind](https://www.blinkist.com/en/books/the-influential-mind-en)
 - Reading: [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
+- Workout, Stretch (20 min)
 
 #### Monday, August 26th, 2019
 - Taught `React Router`
@@ -23,6 +25,7 @@ Note that this log is starting as of August 21st, 2019 and it not a full descrip
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Attention Merchants](https://www.blinkist.com/en/nc/reader/the-attention-merchants-en)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Four Tendencies](https://www.blinkist.com/en/nc/reader/the-four-tendencies-en)
 - Reading: [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
+- Workout, Metabolic Training (25 min)
 
 #### Sunday, August 25th, 2019
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [How to Skimm Your Life](https://www.blinkist.com/en/nc/reader/how-to-skimm-your-life-en)
