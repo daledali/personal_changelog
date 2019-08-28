@@ -6,6 +6,10 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 Note that this log is starting as of August 21st, 2019 and it not a full description of what I have read and courses I have taken. Highlights of past reading and courses can be found here!
 
 ---
+#### Wednesday, August 28th, 2019
+- Reading: [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
+
+---
 #### Tuesday, August 27th, 2019
 - Taught: `Redux - Providers, Stores, and Reducers, Redux/React`
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Happy Mind](https://www.blinkist.com/books/the-happy-mind-en)
