@@ -16,6 +16,7 @@ Highlights of past reading and courses can be found here! (Eventually)
 - Workout, Upper Body
 
 #### Wednesday, August 28th, 2019
+- Taught: `Redux - Middleware`
 - Working through the [TeamTreeHouse, Python Course](https://teamtreehouse.com/library/python-basics-3)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Hardwiring Happiness](https://www.blinkist.com/books/hardwiring-happiness-enk)*
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Deep Work](https://www.blinkist.com/books/deep-work-en?r=1&st=deep%20work)*
