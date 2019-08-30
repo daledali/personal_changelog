@@ -8,9 +8,14 @@ Note that this log is starting as of August 21st, 2019 and it not a full descrip
 Highlights of past reading and courses can be found here! (Eventually)
 
 ---
+#### Friday, August 30th, 2019
+- Reading: [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
+
+---
 #### Thursday, August 29th, 2019
 - Content updates to [scottbromander.com](http://www.scottbromander.com), controlled post from [Medium](www.medium.com/@docix)
 - Working through the [TeamTreeHouse, Python Course](https://teamtreehouse.com/library/python-basics-3)
+- [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [This is your Brain on Parasites](https://www.blinkist.com/books/this-is-your-brain-on-parasites-en)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Happiness Advantage](https://www.blinkist.com/books/the-happiness-advantage-en)*
 - Reading: [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
 - Workout, Upper Body
