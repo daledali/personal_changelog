@@ -8,6 +8,10 @@ Note that this log is starting as of August 21st, 2019 and it not a full descrip
 Highlights of past reading and courses can be found here! (Eventually)
 
 ---
+#### Saturday, August 24th, 2019
+- 
+- Workout, Chest and Triceps
+
 #### Friday, August 30th, 2019
 - Taught, 2-hour Project, `Pizza Ordering Application - React, Redux, React-Router, Node, Express, etc.` : [Project](https://github.com/scottbromander/isurus-speed-pizza-project)
 - Taught: `Service Abstraction`
