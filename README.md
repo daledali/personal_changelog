@@ -9,6 +9,8 @@ Highlights of past reading and courses can be found here! (Eventually)
 
 ---
 #### Friday, August 30th, 2019
+- Taught, 2-hour Project, `Pizza Ordering Application - React, Redux, React-Router, Node, Express, etc.`
+- Taught: `Service Abstraction`
 - Reading: [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
 
 ---
