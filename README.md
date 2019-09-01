@@ -9,7 +9,7 @@ Highlights of past reading and courses can be found here! (Eventually)
 
 ---
 #### Saturday, August 31st, 2019
-- 
+- Working through the [TeamTreeHouse, Python Course](https://teamtreehouse.com/library/python-basics-3)
 - Workout, Chest and Triceps
 
 #### Friday, August 30th, 2019
