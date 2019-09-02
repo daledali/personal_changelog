@@ -8,6 +8,9 @@ Note that this log is starting as of August 21st, 2019 and it not a full descrip
 Highlights of past reading and courses can be found here! (Eventually)
 
 ---
+#### Sunday, September 1st, 2019
+- Working through the [TeamTreeHouse, Python Course](https://teamtreehouse.com/library/python-basics-3)
+
 #### Saturday, August 31st, 2019
 - Working through the [TeamTreeHouse, Python Course](https://teamtreehouse.com/library/python-basics-3)
 - Workout, Chest and Triceps
