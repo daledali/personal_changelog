@@ -8,6 +8,10 @@ Note that this log is starting as of August 21st, 2019 and it not a full descrip
 Highlights of past reading and courses can be found here! (Eventually)
 
 ---
+#### Wednesdat, September 4th, 2019
+- Reading: [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
+- Workout, Shoulders
+
 #### Tuesday, September 3rd, 2019
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Creativity Code](https://www.blinkist.com/books/the-creativity-code-en)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [How to Prepare a Business Plan](https://www.blinkist.com/books/how-to-prepare-a-business-plan-en)
