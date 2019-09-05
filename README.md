@@ -8,7 +8,7 @@ Note that this log is starting as of August 21st, 2019 and it not a full descrip
 Highlights of past reading and courses can be found here! (Eventually)
 
 ---
-#### Wednesday, September 4th, 2019
+#### Thursday, September 5th, 2019
 - Working through [TeamTreeHouse, Beginning Data Science Track](https://teamtreehouse.com/tracks/beginning-data-science)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Learn or Die](https://www.blinkist.com/books/learn-or-die-en)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Ultralearning](https://www.blinkist.com/books/ultralearning-en)
