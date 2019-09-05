@@ -9,7 +9,7 @@ Highlights of past reading and courses can be found here! (Eventually)
 
 ---
 #### Wednesday, September 4th, 2019
-- - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Learn or Die](https://www.blinkist.com/books/learn-or-die-en)
+- [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Learn or Die](https://www.blinkist.com/books/learn-or-die-en)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Ultralearning](https://www.blinkist.com/books/ultralearning-en)
 - Reading: [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
 - Workout, Recovery Day - Stretching
