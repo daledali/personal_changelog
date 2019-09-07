@@ -9,6 +9,7 @@ Highlights of past reading and courses can be found here! (Eventually)
 
 ---
 #### Friday, September 6th, 2019
+- Working through [TeamTreeHouse, Beginning Data Science Track](https://teamtreehouse.com/tracks/beginning-data-science)
 - **COMPLETED** - [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
 - Workout, Legs
 
