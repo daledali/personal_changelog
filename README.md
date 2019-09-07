@@ -8,6 +8,10 @@ Note that this log is starting as of August 21st, 2019 and it not a full descrip
 Highlights of past reading and courses can be found here! (Eventually)
 
 ---
+#### Saturday, September 7th, 2019
+- Working through [TeamTreeHouse, Beginning Data Science Track](https://teamtreehouse.com/tracks/beginning-data-science)
+- Reading: [Louder than Words: The Power of Uncompromised Living - by Andy Stanley](https://www.amazon.com/Louder-Than-Words-Uncompromised-Living/dp/1590523466/ref=sr_1_1?crid=1LMZ9L7WKQ406&keywords=louder+than+words&qid=1567873629&s=gateway&sprefix=louder%2Caps%2C179&sr=8-1), Booked Started
+
 #### Friday, September 6th, 2019
 - Working through [TeamTreeHouse, Beginning Data Science Track](https://teamtreehouse.com/tracks/beginning-data-science)
 - **COMPLETED** - [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
