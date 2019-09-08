@@ -8,7 +8,7 @@ Note that this log is starting as of August 21st, 2019 and it not a full descrip
 Highlights of past reading and courses can be found here! (Eventually)
 
 ---
-#### Sunday, September 7th, 2019
+#### Sunday, September 8th, 2019
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The More of Less](https://www.blinkist.com/books/the-more-of-less-en)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Life Lessons from a Brain Surgeon](https://www.blinkist.com/books/life-lessons-from-a-brain-surgeon-en)*
 - Refining new Medium post
