@@ -8,6 +8,10 @@ Note that this log is starting as of August 21st, 2019 and it not a full descrip
 Highlights of past reading and courses can be found here! (Eventually)
 
 ---
+#### Sunday, September 7th, 2019
+- Refining new Medium post
+- Working through [TeamTreeHouse, Beginning Data Science Track](https://teamtreehouse.com/tracks/beginning-data-science), **COMPLETED** `Packing and Unpacking` module
+
 #### Saturday, September 7th, 2019
 - Started new Medium post
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [How We Learn](https://www.blinkist.com/books/how-we-learn-en)
