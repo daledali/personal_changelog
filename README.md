@@ -9,6 +9,8 @@ Highlights of past reading and courses can be found here! (Eventually)
 
 ---
 #### Sunday, September 7th, 2019
+- [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The More of Less](https://www.blinkist.com/books/the-more-of-less-en)
+- [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Life Lessons from a Brain Surgeon](https://www.blinkist.com/books/life-lessons-from-a-brain-surgeon-en)*
 - Refining new Medium post
 - 🎉 Working through [TeamTreeHouse, Beginning Data Science Track](https://teamtreehouse.com/tracks/beginning-data-science), **COMPLETED** `Packing and Unpacking` module
 
