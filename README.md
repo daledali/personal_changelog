@@ -10,18 +10,18 @@ Highlights of past reading and courses can be found here! (Eventually)
 ---
 #### Sunday, September 7th, 2019
 - Refining new Medium post
-- Working through [TeamTreeHouse, Beginning Data Science Track](https://teamtreehouse.com/tracks/beginning-data-science), **COMPLETED** `Packing and Unpacking` module
+- 🎉 Working through [TeamTreeHouse, Beginning Data Science Track](https://teamtreehouse.com/tracks/beginning-data-science), **COMPLETED** `Packing and Unpacking` module
 
 #### Saturday, September 7th, 2019
 - Started new Medium post
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [How We Learn](https://www.blinkist.com/books/how-we-learn-en)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Notes on a Nervous Planet](https://www.blinkist.com/books/notes-on-a-nervous-planet-en)*
-- Working through [TeamTreeHouse, Beginning Data Science Track](https://teamtreehouse.com/tracks/beginning-data-science), **COMPLETED** `Lists` module
+- 🎉 Working through [TeamTreeHouse, Beginning Data Science Track](https://teamtreehouse.com/tracks/beginning-data-science), **COMPLETED** `Lists` module
 - Reading: [Louder than Words: The Power of Uncompromised Living - by Andy Stanley](https://www.amazon.com/Louder-Than-Words-Uncompromised-Living/dp/1590523466/ref=sr_1_1?crid=1LMZ9L7WKQ406&keywords=louder+than+words&qid=1567873629&s=gateway&sprefix=louder%2Caps%2C179&sr=8-1), Booked Started
 
 #### Friday, September 6th, 2019
 - Working through [TeamTreeHouse, Beginning Data Science Track](https://teamtreehouse.com/tracks/beginning-data-science)
-- **COMPLETED** - [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
+- 🎉 **COMPLETED** - [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
 - Workout, Legs
 
 #### Thursday, September 5th, 2019
@@ -70,7 +70,7 @@ Highlights of past reading and courses can be found here! (Eventually)
 - Working through the [TeamTreeHouse, Python Course](https://teamtreehouse.com/library/python-basics-3)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Hardwiring Happiness](https://www.blinkist.com/books/hardwiring-happiness-enk)*
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Deep Work](https://www.blinkist.com/books/deep-work-en?r=1&st=deep%20work)*
-- **COMPLETED** - [FreeCodeCamp, D3, Introduction to Data Visualization](https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3) course
+- 🎉 **COMPLETED** - [FreeCodeCamp, D3, Introduction to Data Visualization](https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3) course
 - Reading: [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
 - Workout, Cardio
 
@@ -109,4 +109,4 @@ Highlights of past reading and courses can be found here! (Eventually)
 
 #### Wednesday, August 21st, 2019
 - Working through the [TeamTreeHouse, Python Course](https://teamtreehouse.com/library/python-basics-3)
-- Reading: ['Heaven' - by Randy Alcorn](https://www.amazon.com/Heaven-Biblical-Answers-Questions-Booklet/dp/B002IT3VOS/ref=sr_1_1?crid=WACXUHG2SEIF&keywords=heaven+by+randy+alcorn&qid=1566572767&s=gateway&sprefix=heaven%2Caps%2C157&sr=8-1), Booked Completed
+- 🎉 Reading: ['Heaven' - by Randy Alcorn](https://www.amazon.com/Heaven-Biblical-Answers-Questions-Booklet/dp/B002IT3VOS/ref=sr_1_1?crid=WACXUHG2SEIF&keywords=heaven+by+randy+alcorn&qid=1566572767&s=gateway&sprefix=heaven%2Caps%2C157&sr=8-1), Booked Completed
