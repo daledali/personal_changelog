@@ -9,6 +9,7 @@ Highlights of past reading and courses can be found here! (Eventually)
 
 ---
 #### Saturday, September 7th, 2019
+- Started new Medium post
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [How We Learn](https://www.blinkist.com/books/how-we-learn-en)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Notes on a Nervous Planet](https://www.blinkist.com/books/notes-on-a-nervous-planet-en)*
 - Working through [TeamTreeHouse, Beginning Data Science Track](https://teamtreehouse.com/tracks/beginning-data-science), **COMPLETED** `Lists` module
