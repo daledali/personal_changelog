@@ -9,7 +9,7 @@ Highlights of past reading and courses can be found here! (Eventually)
 
 ---
 #### Monday, September 9th, 2019
-- [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [How To Be Heard](https://www.blinkist.com/books/how-to-be-heard-en)*
+- [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [How To Be Heard](https://www.blinkist.com/books/how-to-be-heard-en)
 - Reading: [Louder than Words: The Power of Uncompromised Living - by Andy Stanley](https://www.amazon.com/Louder-Than-Words-Uncompromised-Living/dp/1590523466/ref=sr_1_1?crid=1LMZ9L7WKQ406&keywords=louder+than+words&qid=1567873629&s=gateway&sprefix=louder%2Caps%2C179&sr=8-1)
 - Workout, Chest / Triceps
 
