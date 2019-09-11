@@ -11,6 +11,7 @@ Highlights of past reading and courses can be found here! (Eventually)
 #### Wednesday, September 11th, 2019
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Joy of Work](https://www.blinkist.com/books/the-joy-of-work-en)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Brief](https://www.blinkist.com/books/brief-en)
+- Reading: [Louder than Words: The Power of Uncompromised Living - by Andy Stanley](https://www.amazon.com/Louder-Than-Words-Uncompromised-Living/dp/1590523466/ref=sr_1_1?crid=1LMZ9L7WKQ406&keywords=louder+than+words&qid=1567873629&s=gateway&sprefix=louder%2Caps%2C179&sr=8-1)
 - Workout, Cardio
 
 #### Tuesday, September 10th, 2019
