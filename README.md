@@ -9,12 +9,12 @@ Highlights of past reading and courses can be found here! (Eventually)
 
 ---
 #### Friday, September 13th, 2019
-- ✏️ Published [Self-Directed versus Self-Taught](https://medium.com/furious-growth/self-directed-versus-self-taught-fab615534b7?source=friends_link&sk=4379a3ae7d83c4e1df0667b5d42359d6)
+- ✏️ Published [Self-Directed versus Self-Taught](https://medium.com/furious-growth/self-directed-versus-self-taught-fab615534b7?source=friends_link&sk=4379a3ae7d83c4e1df0667b5d42359d6) on Medium
 
 #### Thursday, September 12th, 2019
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Range](https://www.blinkist.com/books/range-en)
 - Working through [TeamTreeHouse, Beginning Data Science Track](https://teamtreehouse.com/tracks/beginning-data-science)
-- ✏️ Published [Crash Course in Writing for Medium](https://medium.com/furious-growth/crash-course-in-writing-for-medium-b844461a9c8e?source=friends_link&sk=761a6cc2e34c36c888d3d85c45173e68)
+- ✏️ Published [Crash Course in Writing for Medium](https://medium.com/furious-growth/crash-course-in-writing-for-medium-b844461a9c8e?source=friends_link&sk=761a6cc2e34c36c888d3d85c45173e68) on Medium
 - Reading: [Louder than Words: The Power of Uncompromised Living - by Andy Stanley](https://www.amazon.com/Louder-Than-Words-Uncompromised-Living/dp/1590523466/ref=sr_1_1?crid=1LMZ9L7WKQ406&keywords=louder+than+words&qid=1567873629&s=gateway&sprefix=louder%2Caps%2C179&sr=8-1)
 
 #### Wednesday, September 11th, 2019
