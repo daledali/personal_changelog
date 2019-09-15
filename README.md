@@ -8,6 +8,11 @@ Note that this log is starting as of August 21st, 2019 and it not a full descrip
 Highlights of past reading and courses can be found here! (Eventually)
 
 ---
+#### Saturday, September 14th, 2019
+- [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Talk Lean](https://www.blinkist.com/books/talk-lean-en)
+- Working through [TeamTreeHouse, Beginning Data Science Track](https://teamtreehouse.com/tracks/beginning-data-science)
+- Workout, Cardio
+
 #### Friday, September 13th, 2019
 - ✏️ Published [Self-Directed versus Self-Taught](https://medium.com/furious-growth/self-directed-versus-self-taught-fab615534b7?source=friends_link&sk=4379a3ae7d83c4e1df0667b5d42359d6) on Medium
 
