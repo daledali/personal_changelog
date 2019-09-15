@@ -9,7 +9,7 @@ Highlights of past reading and courses can be found here! (Eventually)
 
 ---
 #### Saturday, September 14th, 2019
-- Working on reinforcement project
+- Working on reinforcement project for all Python basic syntax
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Talk Lean](https://www.blinkist.com/books/talk-lean-en)
 - Working through [TeamTreeHouse, Beginning Data Science Track](https://teamtreehouse.com/tracks/beginning-data-science)
 - Workout, Cardio
