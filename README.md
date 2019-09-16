@@ -10,7 +10,7 @@ Highlights of past reading and courses can be found here! (Eventually)
 
 ---
 #### Sunday, September 15th, 2019
-- - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Happy](https://www.blinkist.com/books/happy-en)
+- [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Happy](https://www.blinkist.com/books/happy-en)
 - Working on reinforcement project for all Python basic syntax
 
 #### Saturday, September 14th, 2019
