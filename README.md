@@ -20,6 +20,7 @@ Highlights of past reading and courses can be found here! (Eventually)
 - Workout, Cardio
 
 #### Friday, September 13th, 2019
+- Taught `3rd Party API calls from Servers`
 - ✏️ Published [Self-Directed versus Self-Taught](https://medium.com/furious-growth/self-directed-versus-self-taught-fab615534b7?source=friends_link&sk=4379a3ae7d83c4e1df0667b5d42359d6) on Medium
 
 #### Thursday, September 12th, 2019
