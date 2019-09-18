@@ -4,7 +4,7 @@
 This is a personal changelog of my updates. Not everything is code. I wanted to create visability around the behaviors and habits for my students. Note that this log is starting as of August 21st, 2019 and it not a full description of what I have read and courses I have taken. Highlights of past reading and courses can be found here! (Eventually)
 
 ---
-#### Tuesday, September 17th, 2019
+#### Wednesday, September 18th, 2019
 - Reading: [Louder than Words: The Power of Uncompromised Living - by Andy Stanley](https://www.amazon.com/Louder-Than-Words-Uncompromised-Living/dp/1590523466/ref=sr_1_1?crid=1LMZ9L7WKQ406&keywords=louder+than+words&qid=1567873629&s=gateway&sprefix=louder%2Caps%2C179&sr=8-1)
 - Workout, Cardio
 
