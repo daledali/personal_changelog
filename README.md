@@ -6,7 +6,7 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 ---
 #### Wednesday, September 18th, 2019
 - Working through [TeamTreeHouse, Introduction to Docker Course](https://teamtreehouse.com/library/introduction-to-docker)
-- Reading: [Louder than Words: The Power of Uncompromised Living - by Andy Stanley](https://www.amazon.com/Louder-Than-Words-Uncompromised-Living/dp/1590523466/ref=sr_1_1?crid=1LMZ9L7WKQ406&keywords=louder+than+words&qid=1567873629&s=gateway&sprefix=louder%2Caps%2C179&sr=8-1)
+- 🎉 **COMPLETED** - [Louder than Words: The Power of Uncompromised Living - by Andy Stanley](https://www.amazon.com/Louder-Than-Words-Uncompromised-Living/dp/1590523466/ref=sr_1_1?crid=1LMZ9L7WKQ406&keywords=louder+than+words&qid=1567873629&s=gateway&sprefix=louder%2Caps%2C179&sr=8-1)
 - Workout, Cardio
 
 #### Tuesday, September 17th, 2019
@@ -18,7 +18,7 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - Workout, Back & Biceps
 
 #### Monday, September 16th, 2019
-- 🎉 **Complete**, Python basic syntax project (self directed)
+- 🎉 **COMPLETED**, Python basic syntax project (self directed)
 - Reading: [Happy Mind - by Kevin Horsley and Louis Fourie](https://www.amazon.com/Happy-Mind-Simple-Happier-Starting/dp/1631610384/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1568686765&sr=8-1)
 - Reading: [Louder than Words: The Power of Uncompromised Living - by Andy Stanley](https://www.amazon.com/Louder-Than-Words-Uncompromised-Living/dp/1590523466/ref=sr_1_1?crid=1LMZ9L7WKQ406&keywords=louder+than+words&qid=1567873629&s=gateway&sprefix=louder%2Caps%2C179&sr=8-1)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Like Switch](https://www.blinkist.com/books/the-like-switch-en)
@@ -167,4 +167,4 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 
 #### Wednesday, August 21st, 2019
 - Working through the [TeamTreeHouse, Python Course](https://teamtreehouse.com/library/python-basics-3)
-- 🎉 Reading: ['Heaven' - by Randy Alcorn](https://www.amazon.com/Heaven-Biblical-Answers-Questions-Booklet/dp/B002IT3VOS/ref=sr_1_1?crid=WACXUHG2SEIF&keywords=heaven+by+randy+alcorn&qid=1566572767&s=gateway&sprefix=heaven%2Caps%2C157&sr=8-1), Booked Completed
+- 🎉 **COMPLETED** - ['Heaven' - by Randy Alcorn](https://www.amazon.com/Heaven-Biblical-Answers-Questions-Booklet/dp/B002IT3VOS/ref=sr_1_1?crid=WACXUHG2SEIF&keywords=heaven+by+randy+alcorn&qid=1566572767&s=gateway&sprefix=heaven%2Caps%2C157&sr=8-1)
