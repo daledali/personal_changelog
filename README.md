@@ -5,6 +5,7 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 
 ---
 #### Wednesday, September 18th, 2019
+- Working through [TeamTreeHouse, Introduction to Docker Course](https://teamtreehouse.com/library/introduction-to-docker)
 - Reading: [Louder than Words: The Power of Uncompromised Living - by Andy Stanley](https://www.amazon.com/Louder-Than-Words-Uncompromised-Living/dp/1590523466/ref=sr_1_1?crid=1LMZ9L7WKQ406&keywords=louder+than+words&qid=1567873629&s=gateway&sprefix=louder%2Caps%2C179&sr=8-1)
 - Workout, Cardio
 
