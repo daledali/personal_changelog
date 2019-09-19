@@ -4,6 +4,11 @@
 This is a personal changelog of my updates. Not everything is code. I wanted to create visability around the behaviors and habits for my students. Note that this log is starting as of August 21st, 2019 and it not a full description of what I have read and courses I have taken. Highlights of past reading and courses can be found here! (Eventually)
 
 ---
+#### Thursday, September 19th, 2019
+- Reading: [The Happiness Advantage: How a Positive Brain Fuels Success in Work and Life - by Shawn Achor](https://www.amazon.com/s?k=happiness+advantage+by+shawn+achor&crid=3TJWU29GHZUTM&sprefix=happiness+a%2Caps%2C172&ref=nb_sb_ss_i_1_11)
+- 🎉 **COMPLETED** - [Brain Rules - by John Medina](https://www.amazon.com/Brain-Rules-Updated-Expanded-Principles/dp/098326337X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1568929424&sr=8-1), to be fair, I did not read this in one day. I was about 3/4 of the way through the book and wanted to wrap it up on my day off.
+- Workout, Cardio
+
 #### Wednesday, September 18th, 2019
 - Working through [TeamTreeHouse, Introduction to Docker Course](https://teamtreehouse.com/library/introduction-to-docker)
 - 🎉 **COMPLETED** - [Louder than Words: The Power of Uncompromised Living - by Andy Stanley](https://www.amazon.com/Louder-Than-Words-Uncompromised-Living/dp/1590523466/ref=sr_1_1?crid=1LMZ9L7WKQ406&keywords=louder+than+words&qid=1567873629&s=gateway&sprefix=louder%2Caps%2C179&sr=8-1)
