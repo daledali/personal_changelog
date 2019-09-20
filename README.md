@@ -7,7 +7,7 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 #### Thursday, September 19th, 2019
 - Reading: [The Happiness Advantage: How a Positive Brain Fuels Success in Work and Life - by Shawn Achor](https://www.amazon.com/s?k=happiness+advantage+by+shawn+achor&crid=3TJWU29GHZUTM&sprefix=happiness+a%2Caps%2C172&ref=nb_sb_ss_i_1_11)
 - 🎉 **COMPLETED** - [Brain Rules - by John Medina](https://www.amazon.com/Brain-Rules-Updated-Expanded-Principles/dp/098326337X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1568929424&sr=8-1), to be fair, I did not read this in one day. I was about 3/4 of the way through the book and wanted to wrap it up on my day off.
-- Workout, Cardio
+- Workout, Cardi
 
 #### Wednesday, September 18th, 2019
 - Working through [TeamTreeHouse, Introduction to Docker Course](https://teamtreehouse.com/library/introduction-to-docker)
@@ -41,7 +41,6 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - Workout, Cardio
 
 #### Friday, September 13th, 2019
-- Taught `3rd Party API calls from Servers`
 - ✏️ Published [Self-Directed versus Self-Taught](https://medium.com/furious-growth/self-directed-versus-self-taught-fab615534b7?source=friends_link&sk=4379a3ae7d83c4e1df0667b5d42359d6) on Medium
 
 #### Thursday, September 12th, 2019
@@ -116,8 +115,6 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - Workout, Chest and Triceps
 
 #### Friday, August 30th, 2019
-- Taught, 2-hour Project, `Pizza Ordering Application - React, Redux, React-Router, Node, Express, etc.` : [Project](https://github.com/scottbromander/isurus-speed-pizza-project)
-- Taught: `Service Abstraction`
 - Reading: [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
 
 #### Thursday, August 29th, 2019
@@ -129,7 +126,6 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - Workout, Upper Body
 
 #### Wednesday, August 28th, 2019
-- Taught: `Redux - Middleware`
 - Working through the [TeamTreeHouse, Python Course](https://teamtreehouse.com/library/python-basics-3)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Hardwiring Happiness](https://www.blinkist.com/books/hardwiring-happiness-enk)*
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Deep Work](https://www.blinkist.com/books/deep-work-en?r=1&st=deep%20work)*
@@ -138,14 +134,12 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - Workout, Cardio
 
 #### Tuesday, August 27th, 2019
-- Taught: `Redux - Providers, Stores, and Reducers, Redux/React`
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Happy Mind](https://www.blinkist.com/books/the-happy-mind-en)*
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Influential Mind](https://www.blinkist.com/en/books/the-influential-mind-en)*
 - Reading: [Atomic Habits - by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?keywords=atomic+habits&qid=1566572857&s=audible&sr=1-1)
 - Workout, Stretch (20 min)
 
 #### Monday, August 26th, 2019
-- Taught `React Router`
 - Working through the [FreeCodeCamp, D3, Introduction to Data Visualization](https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3) course
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Attention Merchants](https://www.blinkist.com/en/nc/reader/the-attention-merchants-en)
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [The Four Tendencies](https://www.blinkist.com/en/nc/reader/the-four-tendencies-en)
