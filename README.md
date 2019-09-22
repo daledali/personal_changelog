@@ -3,12 +3,16 @@
 ### Overview
 This is a personal changelog of my updates. Not everything is code. I wanted to create visability around the behaviors and habits for my students. Note that this log is starting as of August 21st, 2019 and it not a full description of what I have read and courses I have taken. Highlights of past reading and courses can be found here! (Eventually)
 
-
 ---
+#### Sunday, September 22nd, 2019
+- Reading: [The Happiness Advantage: How a Positive Brain Fuels Success in Work and Life - by Shawn Achor](https://www.amazon.com/s?k=happiness+advantage+by+shawn+achor&crid=3TJWU29GHZUTM&sprefix=happiness+a%2Caps%2C172&ref=nb_sb_ss_i_1_11)
+
+#### Saturday, September 21st, 2019
+- Day off!
+
 #### Friday, September 20th, 2019
 - Started new Medium post
 - [Blinked](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291 ), [Raising Cain](https://www.blinkist.com/books/raising-cain-en)
-
 
 #### Thursday, September 19th, 2019
 - Reading: [The Happiness Advantage: How a Positive Brain Fuels Success in Work and Life - by Shawn Achor](https://www.amazon.com/s?k=happiness+advantage+by+shawn+achor&crid=3TJWU29GHZUTM&sprefix=happiness+a%2Caps%2C172&ref=nb_sb_ss_i_1_11)
